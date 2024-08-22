@@ -1,4 +1,4 @@
-![Ion Simulator](https://github.com/user-attachments/assets/0dbf0942-6256-428f-947f-c456847009a0)
+![Ions](https://github.com/user-attachments/assets/ff2b4ae5-1d7c-4953-ad18-5559c777460d)
 
 > Simulate ion concepts and phenomena.
 
