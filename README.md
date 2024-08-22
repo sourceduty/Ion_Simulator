@@ -23,6 +23,16 @@ The primary advantage of ionic propulsion is its efficiency in space travel, esp
 ### 
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
+<br>
+[Math](https://github.com/sourceduty/Math)
+<br>
+[Theoretical Modelling](https://github.com/sourceduty/Theoretical_Modelling)
+<br>
+[Math Programmer](https://github.com/sourceduty/Math_Programmer)
+<br>
+[Math Simulator](https://github.com/sourceduty/Math_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
